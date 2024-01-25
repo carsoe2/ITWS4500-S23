@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/node/static/css/main.c0e94742.css",
+    "main.js": "/node/static/js/main.03cc3eeb.js",
+    "static/media/vast_image.png": "/node/static/media/vast_image.30c004a7ff124c29c16b.png",
+    "static/media/our_mission.jpg": "/node/static/media/our_mission.35c58891e6db27a68c69.jpg",
+    "static/media/wind_velocity.png": "/node/static/media/wind_velocity.f9f7490550806b7c4fe2.png",
+    "static/media/background.jpg": "/node/static/media/background.f077f453bd1313ea6689.jpg",
+    "static/media/nasa_website.png": "/node/static/media/nasa_website.15bd94b3d1891da1ee8d.png",
+    "static/media/rpi.jpg": "/node/static/media/rpi.01ff491c36be99907654.jpg",
+    "static/media/Solar_panels.jpg": "/node/static/media/Solar_panels.c5f49e85ce4a94ca2564.jpg",
+    "static/media/facebook.png": "/node/static/media/facebook.d2260ca9c72b860b5a77.png",
+    "static/media/giovanni_logo.png": "/node/static/media/giovanni_logo.0358eabedd6e0faa1ffd.png",
+    "static/media/daniel.jpg": "/node/static/media/daniel.1eb3a816f97039d10f5e.jpg",
+    "static/media/surface_temp.jpg": "/node/static/media/surface_temp.eb3db315df6fb3934c18.jpg",
+    "static/media/linkedin.png": "/node/static/media/linkedin.c0543f8a1f1f86ab63ac.png",
+    "static/media/jordan.jpg": "/node/static/media/jordan.923c2f48aea7df64e303.jpg",
+    "static/media/redUSMap2.jpg": "/node/static/media/redUSMap2.438797a8515b67f23338.jpg",
+    "static/media/dani.jpg": "/node/static/media/dani.e3395197ad641a6f2922.jpg",
+    "static/media/twitter.png": "/node/static/media/twitter.ed0b1f9aa9e79b668ed2.png",
+    "static/media/logo.png": "/node/static/media/logo.daed3922b90c1bd85b24.png",
+    "static/media/insta.png": "/node/static/media/insta.d072393aec181d088583.png",
+    "static/media/eric.png": "/node/static/media/eric.0b0a715b55b13e10cfc5.png",
+    "index.html": "/node/index.html",
+    "main.c0e94742.css.map": "/node/static/css/main.c0e94742.css.map",
+    "main.03cc3eeb.js.map": "/node/static/js/main.03cc3eeb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e94742.css",
+    "static/js/main.03cc3eeb.js"
+  ]
+}

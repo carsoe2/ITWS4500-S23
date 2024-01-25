@@ -1,0 +1,3 @@
+Flask==1.0
+PyTrie==0.2
+requests

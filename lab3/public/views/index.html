@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="home" content="width=device-width, initial scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Another History Page</title>
+</head>
+
+<body>
+    <div class=redFiller></div>
+    <div class=topBanner>
+        <h1 class=topBanner>
+            World History:<br>The People Edition
+        </h1>
+    </div>
+    <div class=redFiller></div>
+
+    <div class="row">
+        <div class="column">
+            <h2>Get:</h2>
+            <form name="getForm" id="getForm">
+                <h3>Enter Name of Person you want to find</h3>
+                <input type="text" name="person" id="person" placeholder="Mike Tyson">
+                <button onclick="getName(); return false;">Submit</button>
+            </form>
+        </div>
+        <div class="column">
+            <p id="getDisplayBody"></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="columnRight">
+            <p id="delDisplayBody"></p>
+        </div>
+        <div class="column">
+            <h2>Delete:</h2>
+            <form name="delForm" id="delForm">
+                <h3>Enter ID of Person you want to delete</h3>
+                <input type="text" id="id" placeholder="Example: 0">
+                <button onclick="delName(); return false;">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <h2>Post:</h2>
+            <form name="postForm" onsubmit="postName(); return false;">
+                <h3>Enter First Name of Person you want to add</h3>
+                <input type="text" id="fname" placeholder="Example: Abraham">
+                <h3>Enter Last Name of Person you want to add</h3>
+                <input type="text" id="lname" placeholder="Example: Lincoln">
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="column">
+            <p id="postDisplayBody"></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="columnRight">
+            <p id="putDisplayBody"></p>
+        </div>
+        <div class="column">
+            <h2>Put:</h2>
+            <form name="putForm" id="putForm">
+                <h3>Hit submit and check the console!</h3>
+                <button onclick="putName(); return false;">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../js/people.js"></script>
+
+
+</body>
+
+</html>

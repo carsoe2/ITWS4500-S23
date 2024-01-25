@@ -1,0 +1,43 @@
+{
+    "coord": {
+        "lon": -73.6654,
+        "lat": 42.7368
+    },
+    "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 30.43,
+        "feels_like": 21.6,
+        "temp_min": 26.55,
+        "temp_max": 33.53,
+        "pressure": 1005,
+        "humidity": 52
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 10.36,
+        "deg": 170
+    },
+    "clouds": {
+        "all": 75
+    },
+    "dt": 1675398284,
+    "sys": {
+        "type": 2,
+        "id": 2018860,
+        "country": "US",
+        "sunrise": 1675339702,
+        "sunset": 1675375695
+    },
+    "timezone": -18000,
+    "id": 5141502,
+    "name": "Troy",
+    "cod": 200
+}

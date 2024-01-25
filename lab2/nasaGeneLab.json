@@ -1,0 +1,451 @@
+{
+    "hits": 1,
+    "input": "1",
+    "page_number": 1,
+    "page_size": 10,
+    "page_total": 1,
+    "studies": {
+        "OSD-1": {
+            "file_count": 72,
+            "study_files": [
+                {
+                    "date_created": 1663386632.891,
+                    "file_name": "GLDS-1_microarray_E-GEOD-53196.processed.1.zip",
+                    "file_size": 2355011,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_E-GEOD-53196.processed.1.zip"
+                },
+                {
+                    "date_created": 1663386632.897,
+                    "file_name": "GLDS-1_microarray_GSM1287095_02_USC.CEL.gz",
+                    "file_size": 2226471,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287095_02_USC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.904,
+                    "file_name": "GLDS-1_microarray_GSM1287096_03_USC.CEL.gz",
+                    "file_size": 2289112,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287096_03_USC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.911,
+                    "file_name": "GLDS-1_microarray_GSM1287099_06_UGC.CEL.gz",
+                    "file_size": 2250564,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287099_06_UGC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.917,
+                    "file_name": "GLDS-1_microarray_GSM1287098_05_UGC.CEL.gz",
+                    "file_size": 2237965,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287098_05_UGC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.924,
+                    "file_name": "GLDS-1_microarray_GSM1287100_07_ISB.CEL.gz",
+                    "file_size": 2145937,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287100_07_ISB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.931,
+                    "file_name": "GLDS-1_microarray_GSM1287097_04_UGC.CEL.gz",
+                    "file_size": 2419545,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287097_04_UGC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.938,
+                    "file_name": "GLDS-1_microarray_GSM1287102_09_ISB.CEL.gz",
+                    "file_size": 2146192,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287102_09_ISB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.944,
+                    "file_name": "GLDS-1_microarray_GSM1287101_08_ISB.CEL.gz",
+                    "file_size": 2048947,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287101_08_ISB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.95,
+                    "file_name": "GLDS-1_microarray_GSM1287110_17_IEF.CEL.gz",
+                    "file_size": 2166563,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287110_17_IEF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.957,
+                    "file_name": "GLDS-1_microarray_GSM1287111_18_IEF.CEL.gz",
+                    "file_size": 2231535,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287111_18_IEF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.964,
+                    "file_name": "GLDS-1_microarray_GSM1287094_01_USC.CEL.gz",
+                    "file_size": 2376829,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287094_01_USC.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.97,
+                    "file_name": "GLDS-1_microarray_GSM1287107_14_ISF.CEL.gz",
+                    "file_size": 2365163,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287107_14_ISF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.977,
+                    "file_name": "GLDS-1_microarray_GSM1287109_16_IEF.CEL.gz",
+                    "file_size": 2308658,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287109_16_IEF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.984,
+                    "file_name": "GLDS-1_microarray_GSM1287108_15_ISF.CEL.gz",
+                    "file_size": 2261021,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287108_15_ISF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.991,
+                    "file_name": "GLDS-1_microarray_GSM1287106_13_ISF.CEL.gz",
+                    "file_size": 2255281,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287106_13_ISF.CEL.gz"
+                },
+                {
+                    "date_created": 1663386632.998,
+                    "file_name": "GLDS-1_microarray_GSM1287105_12_IEB.CEL.gz",
+                    "file_size": 2092173,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287105_12_IEB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386633.004,
+                    "file_name": "GLDS-1_microarray_GSM1287104_11_IEB.CEL.gz",
+                    "file_size": 2154946,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287104_11_IEB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386633.011,
+                    "file_name": "GLDS-1_microarray_GSM1287103_10_IEB.CEL.gz",
+                    "file_size": 2134487,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_microarray_GSM1287103_10_IEB.CEL.gz"
+                },
+                {
+                    "date_created": 1663386633.049,
+                    "file_name": "GLDS-1_metadata_GLDS-1-ISA.zip",
+                    "file_size": 50906,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_metadata_GLDS-1-ISA.zip"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_md5sum.txt",
+                    "file_size": 3606,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_md5sum.txt"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_arrayInfo.txt",
+                    "file_size": 24,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_arrayInfo.txt"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_normPCA.png",
+                    "file_size": 40336,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normPCA.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_rawPCA.png",
+                    "file_size": 38848,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_rawPCA.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_contrasts.csv",
+                    "file_size": 3291,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_contrasts.csv"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_normBoxplot.png",
+                    "file_size": 21290,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normBoxplot.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep1_GSM1287100_raw.CEL.gz",
+                    "file_size": 2143048,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep1_GSM1287100_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_normDensityDistributions.png",
+                    "file_size": 44419,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normDensityDistributions.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_rawBoxplot.png",
+                    "file_size": 22382,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_rawBoxplot.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep1_GSM1287097_raw.txt.gz",
+                    "file_size": 130830,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep1_GSM1287097_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep3_GSM1287111_raw.txt.gz",
+                    "file_size": 130672,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep3_GSM1287111_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_images.png",
+                    "file_size": 212018,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_images.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_normPlotMA.png",
+                    "file_size": 143641,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normPlotMA.png"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep3_GSM1287105_raw.txt.gz",
+                    "file_size": 130729,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep3_GSM1287105_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep3_GSM1287102_raw.CEL.gz",
+                    "file_size": 2143142,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep3_GSM1287102_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep2_GSM1287101_raw.txt.gz",
+                    "file_size": 130778,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep2_GSM1287101_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep2_GSM1287098_raw.txt.gz",
+                    "file_size": 130756,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep2_GSM1287098_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.987,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep1_GSM1287106_raw.CEL.gz",
+                    "file_size": 2252236,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep1_GSM1287106_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep2_GSM1287110_raw.CEL.gz",
+                    "file_size": 2163624,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep2_GSM1287110_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep2_GSM1287104_raw.txt.gz",
+                    "file_size": 130789,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep2_GSM1287104_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_annotReport.txt",
+                    "file_size": 210,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_annotReport.txt"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_rawDensityDistributions.png",
+                    "file_size": 74573,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_rawDensityDistributions.png"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep3_GSM1287108_raw.CEL.gz",
+                    "file_size": 2258201,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep3_GSM1287108_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep2_GSM1287095_raw.txt.gz",
+                    "file_size": 130709,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep2_GSM1287095_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep1_GSM1287106_raw.txt.gz",
+                    "file_size": 130717,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep1_GSM1287106_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep1_GSM1287100_raw.txt.gz",
+                    "file_size": 130767,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep1_GSM1287100_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep2_GSM1287104_raw.CEL.gz",
+                    "file_size": 2151841,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep2_GSM1287104_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep3_GSM1287099_raw.txt.gz",
+                    "file_size": 130723,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep3_GSM1287099_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep3_GSM1287111_raw.CEL.gz",
+                    "file_size": 2228649,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep3_GSM1287111_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep3_GSM1287096_raw.txt.gz",
+                    "file_size": 130798,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep3_GSM1287096_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep2_GSM1287095_raw.CEL.gz",
+                    "file_size": 2223403,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep2_GSM1287095_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep1_GSM1287103_raw.CEL.gz",
+                    "file_size": 2131533,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep1_GSM1287103_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep3_GSM1287096_raw.CEL.gz",
+                    "file_size": 2286480,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep3_GSM1287096_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_normalized-annotated.rda",
+                    "file_size": 1751107,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normalized-annotated.rda"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep1_GSM1287094_raw.CEL.gz",
+                    "file_size": 2374400,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep1_GSM1287094_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep1_GSM1287109_raw.CEL.gz",
+                    "file_size": 2305625,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep1_GSM1287109_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep3_GSM1287105_raw.CEL.gz",
+                    "file_size": 2089328,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep3_GSM1287105_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep2_GSM1287098_raw.CEL.gz",
+                    "file_size": 2235015,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep2_GSM1287098_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep3_GSM1287099_raw.CEL.gz",
+                    "file_size": 2247510,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep3_GSM1287099_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep1_GSM1287109_raw.txt.gz",
+                    "file_size": 130830,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep1_GSM1287109_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep2_GSM1287110_raw.txt.gz",
+                    "file_size": 130673,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Bbas_Rep2_GSM1287110_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep1_GSM1287097_raw.CEL.gz",
+                    "file_size": 2416459,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_uninfd_Rep1_GSM1287097_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep1_GSM1287103_raw.txt.gz",
+                    "file_size": 130715,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_GC_infdw-Ecol_Rep1_GSM1287103_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep2_GSM1287101_raw.CEL.gz",
+                    "file_size": 2046282,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep2_GSM1287101_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_normalized.txt",
+                    "file_size": 5979088,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normalized.txt"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep3_GSM1287108_raw.txt.gz",
+                    "file_size": 130622,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep3_GSM1287108_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep2_GSM1287107_raw.CEL.gz",
+                    "file_size": 2362991,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep2_GSM1287107_raw.CEL.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_normalized-annotated.txt",
+                    "file_size": 3982281,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_normalized-annotated.txt"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep2_GSM1287107_raw.txt.gz",
+                    "file_size": 130875,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Bbas_Rep2_GSM1287107_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep3_GSM1287102_raw.txt.gz",
+                    "file_size": 130713,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_infdw-Ecol_Rep3_GSM1287102_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep1_GSM1287094_raw.txt.gz",
+                    "file_size": 130747,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_Dmel_OR_wo_FLT_uninfd_Rep1_GSM1287094_raw.txt.gz"
+                },
+                {
+                    "date_created": 1595642516.988,
+                    "file_name": "GLDS-1_array_differential_expression.csv",
+                    "file_size": 29772702,
+                    "remote_url": "/geode-py/ws/studies/OSD-1/download?source=datamanager&file=GLDS-1_array_differential_expression.csv"
+                }
+            ]
+        }
+    },
+    "success": true,
+    "total_hits": 1,
+    "valid_input": [
+        "1"
+    ]
+}

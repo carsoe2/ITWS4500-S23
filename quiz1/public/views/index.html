@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="home" content="width=device-width, initial scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>History and Places Page</title>
+</head>
+
+<body>
+    <div class=redFiller></div>
+    <div class=topBanner>
+        <h1 class=topBanner>
+            Find a College<br>or a Historical Figure
+        </h1>
+    </div>
+    <div class=redFiller></div>
+
+    <div class="row">
+        <div class="column">
+            <h2>Find a Person:</h2>
+            <form name="getForm" id="getForm">
+                <h3>Enter Name of Person you want to find</h3>
+                <input type="text" name="person" id="person" placeholder="Mike Tyson">
+                <button onclick="getName(); return false;">Submit</button>
+            </form>
+        </div>
+        <div class="column">
+            <p id="getDisplayBody"></p>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="columnRight">
+            <p id="collegeDisplayBody"></p>
+        </div>
+        <div class="column">
+            <h2>Find a College:</h2>
+            <form name="getCollegeForm" id="getCollegeForm">
+                <h3>Enter the name of a college in the United States</h3>
+                <input type="text" name="college" id="college" placeholder="Example: Stanford">
+                <button onclick="getCollege(); return false;">Submit</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="../js/people.js"></script>
+
+
+</body>
+
+</html>

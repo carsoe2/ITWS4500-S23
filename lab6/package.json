@@ -1,0 +1,12 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "APIs used:\r https://api-ninjas.com/api/celebrity\r https://api-ninjas.com/api/historicalfigures\r https://www.superheroapi.com/\r https://rapidapi.com/AbhishekBhatt072003/api/actor-movie-api1/",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

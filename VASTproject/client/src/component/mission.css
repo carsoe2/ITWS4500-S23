@@ -1,0 +1,13 @@
+#mainHeader {
+    text-align: center;
+    color: white;
+    font-size: 5em;
+}
+
+#mainContent {
+    text-align: center;
+    width: 100%;
+    padding: 2% 10%;
+    font-size: 2em;
+    color: wheat;
+}

@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 36.85,
+        "lat": -3.3667
+    },
+    "weather": [
+        {
+            "id": 801,
+            "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 79.36,
+        "feels_like": 79.36,
+        "temp_min": 79.36,
+        "temp_max": 80.65,
+        "pressure": 1012,
+        "humidity": 33,
+        "sea_level": 1012,
+        "grnd_level": 887
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 5.64,
+        "deg": 114,
+        "gust": 7.23
+    },
+    "clouds": {
+        "all": 14
+    },
+    "dt": 1677227730,
+    "sys": {
+        "type": 1,
+        "id": 2607,
+        "country": "TZ",
+        "sunrise": 1677210025,
+        "sunset": 1677253903
+    },
+    "timezone": 10800,
+    "id": 149155,
+    "name": "Usa River",
+    "cod": 200
+}

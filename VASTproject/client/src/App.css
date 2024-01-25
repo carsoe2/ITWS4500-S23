@@ -1,0 +1,117 @@
+h4{
+  font-family: 'Gruppo', cursive;
+  font-size: 20px;
+}
+
+body{
+  background-image: url(./component/resources/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 20px;
+}
+
+#vast {
+  width:1000px;
+  height:1000px;
+  padding-left: 100px;
+  padding-top: 0px;
+  padding-bottom: 0pxS;
+}
+
+/* NAVBAR */
+.navbar{
+  background-color: #0400ef76 !important;
+}
+
+.navbar-brand{
+  color: #1c86d2 !important;
+  font-family: 'Gruppo', cursive !important;
+}
+
+.btn.btn-secondary.dropdown-toggle {
+  background-color: #1c86d2 !important;
+  border-color: white !important;
+  font-family: 'Gruppo', cursive !important;
+}
+
+.dropdown-menu{
+  background-color:#0300bf !important;
+  border-color: #1c86d2 !important;
+
+}
+
+.dropdown-item{
+  color:rgb(157, 226, 255) !important;
+  font-family: 'Gruppo', cursive;
+}
+
+.dropdown-item:hover{
+  background-color: #020076 !important;
+}
+
+/*FOOTER*/
+.text-center.p-3{
+  background-color:#020076;
+  color:rgb(157, 226, 255);
+}
+
+.text-copyright{
+  color:rgb(157, 226, 255) !important;
+}
+
+.bg-dark.text-center.text-white{
+  background-color: #0400ef76 !important;
+}
+
+.icon{
+  width:40px;
+  height:40px;
+}
+
+/* CARDS */
+
+.card.w-90{
+  background-color: rgba(240, 248, 255, 0);
+  border-radius: 0%;
+  border-width: 0px;
+}
+.card-title{
+  font-family: 'Gruppo', cursive;
+  font-size: 35px;
+  font-weight: bolder;
+  text-shadow: 15px 10px 5px black;
+  color: white;
+}
+
+.card-text{
+  font-family: 'Gruppo', cursive;
+  color: white;
+  font-size: 20px;
+}
+
+.btn.btn-primary{
+  font-family: 'Gruppo', cursive;
+  background-color: #0400ef76;
+  color:#14ebff;
+}
+
+.image{
+  width:500px;
+  height:250px;
+  border-radius: 20px;
+  box-shadow: black;
+}
+
+canvas {
+  display: block;
+  width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  background: rgb(148, 70, 70);
+}
+
+h2 {
+  text-align: center;
+  font-size: 6em;
+  color: cornflowerblue;
+}

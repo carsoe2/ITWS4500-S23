@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lab 2</title>
+    <link rel='stylesheet' type='text/css' media='screen' href='index.css'>
+</head>
+<body>
+    <div class="background">
+        <div class="topBody">
+            <h1>The Poor Student's Almanac v2.0</h1>
+            <h2>See the weather without leaving your dorm!<br>
+            Now using your browser geolocation!</h2>
+        </div>
+        
+        <div class="body">
+            <h2>Want the weather of somewhere else? Enter the location below!</h2>
+            <form class="form" name="locationForm" onsubmit="validateLocationForm(); return false;">
+                <h3 class="h3Form">Enter City of Desired Location</h3>
+                <input type="text" id="city" placeholder="Example: Troy">
+                <h3 class="h3Form">Enter State of Desired Location</h3>
+                <input type="text" id="state" placeholder="Example: New York">
+                <h3 class="h3Form">Enter Country of Desired Location</h3>
+                <input type="text" id="country" placeholder="Example: USA">
+                <h3 class="h3Form">Enter Zipcode of Desired Location</h3>
+                <input type="text" id="zcode" placeholder="Example: 12180">
+                <button type="submit" class="submit">SUBMIT</button>
+            </form>
+        </div>
+
+        <div class="body">
+            <h2>The weather in your current area:</h2>
+            <div class="body" id="locationBody"></div>
+        </div>
+        <div class="body" id="displayBody"></div>
+        
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src='index.js'></script>
+</body>
+</html>

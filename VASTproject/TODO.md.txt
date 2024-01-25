@@ -1,0 +1,5 @@
+Data visualization alt options: chartjs, vchart, tablaeu
+legend to contour, state borders
+leaflet.js
+margin:auto to fix frontend
+https://d3-graph-gallery.com/

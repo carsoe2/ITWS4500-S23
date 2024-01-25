@@ -1,0 +1,116 @@
+import React, { useState, useEffect } from "react";
+import { useParams, useNavigate } from "react-router";
+
+export default function Edit() {
+    const [form, setForm] = useState({
+        name: "",
+        position: "",
+        level: "",
+        records: [],
+    });
+    const params = useParams();
+    const navigate = useNavigate();
+
+    useEffect(() => {
+        async function fetchData() {
+            const id = params.id.toString();
+            const response = await fetch(`https://carsoe2.eastus.cloudapp.azure.com/node/quiz2/${params.id.toString()}`);
+
+            if (!response.ok) {
+                const message = `An error has occurred: ${response.statusText}`;
+                window.alert(message);
+                return;
+            }
+
+            const record = await response.json(); 
+            if (!record) {
+                window.alert(`Record with id ${id} not found`);
+                navigate("/node/");
+                return;
+            } 
+
+            setForm(record);
+        }
+
+        fetchData();
+
+        return;
+    }, [params.id, navigate]);
+
+    // These methods will update the state properties.
+    function updateForm(value) {
+        return setForm((prev) => {
+            return { ...prev, ...value };
+        });
+    }
+
+    function onSubmit(e) {
+        e.preventDefault();
+        const editedPerson = {
+            results: [{
+                name: form.name,
+                title: form.title,
+                info: { born: form.born }
+            }]
+        };
+
+        // This will send a post request to update the data in the database.
+        fetch(`https://carsoe2.eastus.cloudapp.azure.com/node/quiz2/update/${params.id}`, {
+            method: "PUT",
+            body: JSON.stringify(editedPerson),
+            headers: {
+                'Content-Type': 'application/json'
+            },
+        });
+
+        navigate("/node/");
+    }
+
+    // This following section will display the form that takes input from the user to update the data.
+    return (
+        <div>
+            <h3>Update Record</h3>
+            <form onSubmit={onSubmit}>
+            <div className="form-group">
+                    <label htmlFor="name">Name</label>
+                    <input
+                        type="text"
+                        className="form-control"
+                        id="name"
+                        value={form.name}
+                        onChange={(e) => updateForm({ name: e.target.value })}
+                    />
+                </div>
+                <div className="form-group">
+                    <label htmlFor="title">Title</label>
+                    <input
+                        type="text"
+                        className="form-control"
+                        id="title"
+                        value={form.title}
+                        onChange={(e) => updateForm({ title: e.target.value })}
+                    />
+                </div>
+                <div className="form-group">
+                    <label htmlFor="title">Born</label>
+                    <input
+                        type="text"
+                        className="form-control"
+                        id="born"
+                        value={form.born}
+                        onChange={(e) => updateForm({ born: e.target.value })}
+                    />
+                </div>
+                <br />
+
+                <div className="form-group">
+                    <input
+                        type="submit"
+                        value="Update Record"
+                        className="btn btn-primary"
+                    />
+                </div>
+            </form>
+        </div>
+    );
+}
